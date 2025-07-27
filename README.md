@@ -1,5 +1,5 @@
-# manual-cmd-avancado
-anual Interativo de Comandos CMD Avançado - Windows
+Manual Interativo de Comandos CMD Avançado - Windows
+
 🚀 PROJETO OPEN SOURCE: MANUAL CMD INTERATIVO
 
 Acabei de publicar no GitHub um projeto que pode transformar como você trabalha com Windows! 💻
@@ -50,6 +50,7 @@ Acessível de qualquer lugar 🌐
 🔄 Compartilhe com sua rede
 💬 Comente qual comando você mais usa
 🐛 Reporte bugs ou sugira melhorias
+
 
 #OpenSource #ManualCMD #Windows #SysAdmin #DevOps #GitHub #GitHubPages #CMD #WindowsServer #TI #Tecnologia #ITTools #Terminal #Automation #Scripts #PowerShell #NetworkAdmin #SystemAdmin #TechCommunity #DesenvolvimentoProfissional
 
